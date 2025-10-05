@@ -1,5 +1,7 @@
 # File Output Functionality
 
+[Back to Readme](README.md)
+
 This document describes the file output capabilities of the RAG2 Document Processing System, which allows you to save summaries, search results, and other outputs to organized markdown files.
 
 ## Overview

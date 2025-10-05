@@ -1,5 +1,7 @@
 # PDF Scanner for ChromaDB Integration
 
+[Back to Readme](README.md)
+
 This project provides a comprehensive solution for scanning PDF files and storing their content in ChromaDB for vector search and retrieval.
 
 ## Features
