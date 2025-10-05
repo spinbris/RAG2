@@ -1,6 +1,6 @@
 # Configuration Management with .env File
 
-This document explains how the RAG2 system now uses a centralized configuration system with `.env` file support for better environment variable management.
+This document explains how the RAG2 system now uses a centralized configuration system.
 
 ## Overview
 
@@ -9,17 +9,6 @@ The system now includes a comprehensive configuration management system that:
 - Provides centralized configuration with sensible defaults
 - Supports multiple LLM providers
 - Offers easy configuration validation and status checking
-
-## Files Added/Modified
-
-### New Files
-- `config.py` - Centralized configuration management
-- `CONFIGURATION_README.md` - This documentation
-
-### Modified Files
-- `document_summarizer.py` - Updated to use config system
-- `main.py` - Updated to use config system
-- `summarize_demo.py` - Updated to use config system
 
 ## Configuration Features
 
