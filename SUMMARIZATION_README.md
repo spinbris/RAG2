@@ -1,5 +1,7 @@
 # Document Summarization with ChromaDB and LLM
 
+[Back to Readme](README.md)
+
 This module provides advanced document summarization capabilities using ChromaDB for context retrieval and various LLM providers for text generation.
 
 ## Features

@@ -6,4 +6,6 @@
 
 [File Output](FILE_OUTPUT_README.md)
 
+[Summarization Guide](SUMMARIZATION_README.md)
+
 
